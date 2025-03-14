@@ -1,5 +1,5 @@
 {
-    "name": "BANK3 Token",
+    "name": "Bank3 Token",
     "symbol": "BANK3",
     "description": "Bank3 is a cryptographic scheme (implemented as a set of smart contracts) that allows Web3 users to send crypto assets directly to Gmail and social media accounts such as Facebook. Bank3 uses the League of Identity (LoID), a decentralized identity-based encryption and signature network. Both Bank3 and LoID have been developed by AZKR Research.",
     "interface": "https://bank3.azkr.org",
